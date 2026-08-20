@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build custom anime sites and clone classic, well known anime websites to bring them back to life. Learning full stack web dev. 
+I build custom anime sites and clone classic, old-school anime websites to bring them back to life. Learning full stack web dev. 
 
 
 # 💻 Tech Stack:
@@ -16,6 +16,6 @@ I build custom anime sites and clone classic, well known anime websites to bring
 ![](https://github-contributor-stats.vercel.app/api?username=Anikage-Group&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Anikage-Group&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Anikage-Group&icon=2&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
