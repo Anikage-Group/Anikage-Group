@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build custom anime sites and clone classic, old-school anime websites to bring them back to life. Learning full stack web dev. 
+I build custom anime sites and clone classic, well known anime websites to bring them back to life. Learning full stack web dev. 
 
 
 # 💻 Tech Stack:
